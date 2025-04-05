@@ -2,6 +2,27 @@
   "baseUri": "https://raw.githubusercontent.com/psplandy/Daijishou/main/platforms/",
   "platformList": [
     {
+      "filename": "Cards.json",
+      "platformName": "Cards",
+      "platformShortname": "Cards",
+      "platformUniqueId": "Cards",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "Mahjong.json",
+      "platformName": "Mahjong",
+      "platformShortname": "Mahjong",
+      "platformUniqueId": "Mahjong",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "SlotMachine.json",
+      "platformName": "Slot Machine",
+      "platformShortname": "SlotMachine",
+      "platformUniqueId": "SlotMachine",
+      "revisionNumber": 5
+    },
+    {
       "filename": "3DO.json",
       "platformName": "3DO",
       "platformShortname": "3do",
