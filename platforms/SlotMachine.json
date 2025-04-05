@@ -3,8 +3,8 @@
   "revisionNumber": 7,
   "platform": {
     "name": "Slot Machine (MAME)",
-    "uniqueId": "mame",
-    "shortname": "mame",
+    "uniqueId": "SlotMachine",
+    "shortname": "SlotMachine",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
