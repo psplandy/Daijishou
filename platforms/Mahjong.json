@@ -3,8 +3,8 @@
   "revisionNumber": 7,
   "platform": {
     "name": "Mahjong (MAME)",
-    "uniqueId": "mame",
-    "shortname": "mame",
+    "uniqueId": "Mahjong",
+    "shortname": "Mahjong",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
